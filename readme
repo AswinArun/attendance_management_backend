@@ -1,0 +1,9 @@
+install mariadb
+clone repo
+install dependencies
+
+install uvicorn
+
+run "python -m uvicorn backend.main:app --reload" to run the server
+
+go to "127.0.0.1:8000/docs#/default/" to test out the api
