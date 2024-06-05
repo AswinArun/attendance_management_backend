@@ -1,3 +1,5 @@
+backend api using fastAPI and sqlalchemy with mariadb for an attendance management system
+
 install mariadb
 clone repo
 install dependencies
